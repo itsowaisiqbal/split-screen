@@ -1,0 +1,30 @@
+- !<AssetImportMetadata/7031f22c-a14e-4c5c-b4a2-52f49661bbe1>
+  ImportedAssetIds:
+    AnimatedTexture: !<reference> 0e1a1659-229c-4161-830d-f6788cab16d2
+    laserbeam_0.png: !<reference> f722aa8b-be71-4eae-988d-f45ec28d6201
+  ImporterName: LensAnimationImporter
+  PrimaryAsset: !<reference> 0e1a1659-229c-4161-830d-f6788cab16d2
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    AnimatedTexture: !<own> 6fe4c87c-13e9-4de5-80f3-57fb29741755
+  DependentFiles:
+    - laserbeam_0.png
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<SingleCompressionSettings>
+    CompressorName: None
+    CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<AnimatedTextureData/6fe4c87c-13e9-4de5-80f3-57fb29741755>
+  AutoPlay: true
+  Reversed: false
+  PingPong: false
+  CurrentSequence: default
+  KeyFramesData:
+    default:
+      - time: 0.000000
+        value: 0
+      - time: 1.000000
+        value: 28
